@@ -1,0 +1,1 @@
+- 因为要转对象所以要约束下，因为对象的 key 只能是 number，string，symbol 类型的，其次原来的数组 const 了所以要约束下 readonly，因为是数组所有可以 T[number]，而且数组的 T[nubmer]就是数组的值，所以对象的 value 也是 T[nubmer]

@@ -1,0 +1,1 @@
+- keyof 是为了取 T 的所有 key，extends 是为了约束 K 必须是 T 的 keyof 中存在的，in 是枚举 k 的各个值类似于遍历，联合类型可以用 in 枚举

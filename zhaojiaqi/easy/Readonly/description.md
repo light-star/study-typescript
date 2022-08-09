@@ -1,0 +1,1 @@
+- readonly 是 ts 的关键字，类似于 js 中的 const，无法更改

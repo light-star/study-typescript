@@ -1,0 +1,8 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "editor.guides.bracketPairs": true,
+  "editor.fontSize": 16,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.singleQuote": true,
+}

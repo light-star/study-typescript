@@ -1,0 +1,1 @@
+- as const 的数组 length 是固定的，所以 ts 可以直接取到数组的 length
