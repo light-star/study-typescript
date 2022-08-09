@@ -3,7 +3,13 @@
 - 首先需要切换 node 环境 `nvm use 16`
 
 - 增加新的文件`npm run make`
+
 - 选择当前的用户，题目等级，填写题目名称即可自动生成文件
+  question.ts 是问题
+  answer.ts 是答案
+  description.md 是该题的注解
+
+- 自己名字下的 Note.md 可以用来记录一些遇到的问题和知识等
 
 ## 题目地址
 
