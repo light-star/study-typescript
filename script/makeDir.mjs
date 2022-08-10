@@ -67,7 +67,8 @@ const checkDir = async (pathDir, answer) => {
 
 const createDir = async pathDir => {
   try {
-    await fsPromise.mkdir(pathDir);
+    // 递归创建，因为git不会上传空文件夹
+    await fsPromise.mkdir(pathDir, { recursive: true });
   } catch (e) {
     console.log(chalk.red.bold('文件夹创建失败'));
     process.exit(1);
