@@ -20,3 +20,13 @@
 - 在线作答点击`Take The Challenge`，查看网上答案点击`Check out Solutions`
 
 - 建议在线作答，answer 只是为了记录，
+
+## 学习资料
+
+- ts 官网 https://www.typescriptlang.org/docs/handbook/intro.html
+
+- ts 中文网 https://www.tslang.cn/docs/home.html
+
+- ts 入门指南 https://ts.xcatliu.com/
+
+- ts 深入理解 https://jkchao.github.io/typescript-book-chinese/
