@@ -30,3 +30,7 @@
 - ts 入门指南 https://ts.xcatliu.com/
 
 - ts 深入理解 https://jkchao.github.io/typescript-book-chinese/
+
+- cheatsheets https://www.typescriptlang.org/cheatsheets
+  
+- utility types https://www.typescriptlang.org/docs/handbook/utility-types.html
